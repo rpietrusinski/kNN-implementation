@@ -45,9 +45,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/knn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            <state relative-caret-position="374">
+              <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
               <folding>
+                <element signature="e#0#18#0" expanded="true" />
                 <marker date="1540137328005" expanded="true" signature="280:482" ph="..." />
                 <marker date="1540137328005" expanded="true" signature="512:513" ph="..." />
                 <marker date="1540137328005" expanded="true" signature="659:664" ph="..." />
@@ -66,6 +67,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -79,6 +83,7 @@
     <option name="width" value="1750" />
     <option name="height" value="970" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -166,9 +171,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/knn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        <state relative-caret-position="374">
+          <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
           <folding>
+            <element signature="e#0#18#0" expanded="true" />
             <marker date="1540137328005" expanded="true" signature="280:482" ph="..." />
             <marker date="1540137328005" expanded="true" signature="512:513" ph="..." />
             <marker date="1540137328005" expanded="true" signature="659:664" ph="..." />
