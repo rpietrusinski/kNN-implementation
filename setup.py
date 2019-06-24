@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="kNN-implementation",
-    version="0.0.1",
+    name="myknn",
+    version="0.0.2",
     author="Robert",
     author_email="pietrusinski.robert@gmail.com",
     description="Knn implementation",
