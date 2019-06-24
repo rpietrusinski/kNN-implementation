@@ -1,5 +1,5 @@
 import unittest
-from knn import KnnClassifier
+from myknn.knn import KnnClassifier
 import numpy as np
 
 
@@ -12,7 +12,7 @@ class TestKnn(unittest.TestCase):
         self.assertIsInstance(knn.standardize(X[:, 0]), np.ndarray)
         self.assertIsNotNone(knn.standardize(X[:, 0]))
 
-    def test_majority_vote(self, lst):
+    def test_majority_vote(self):
         X = np.array(np.random.sample(50)).reshape(10, 5)
         y = np.random.randint(0, 2, 50).reshape(50, 1)
         knn = KnnClassifier(X, y)
